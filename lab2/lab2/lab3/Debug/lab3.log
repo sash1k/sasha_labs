@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\sashk\source\repos\lab3\lab3\source.cpp(44): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab3.vcxproj -> C:\Users\sashk\source\repos\lab3\Debug\lab3.exe
